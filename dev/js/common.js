@@ -1,0 +1,2 @@
+/*! kommentooooo */
+console.log('aasssasasasasasssaaaaaa');
